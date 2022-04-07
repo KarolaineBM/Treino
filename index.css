@@ -1,0 +1,68 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.form-control{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid rgb(255, 153, 0);
+    padding: 20px;
+    font-size: 2rem;
+    color: rgb(15, 15, 1);
+}
+
+.text{
+    color: blueviolet;
+}
+
+.blue{
+    color: rgb(173, 6, 146);
+}
+
+.tamanho-font-30{
+    font-size: 3rem;
+}
+
+.tamanho-font-20{
+    font-size: 2rem;
+}
+
+.btn-padrao{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid rgb(255, 153, 0);
+    padding: 20px;
+    font-size: 2rem;
+    color: rgb(15, 15, 1);
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+.btn-padrao:hover{
+    background-color: rgb(161, 1, 167);
+}
+
+.img-produto{
+  width: 80%;
+}
+
+.container{
+    background-color: rgb(221, 224, 19);
+    width: 100%;
+    height: 100vh;
+    padding: 10px;
+    text-align: center;
+}
+
+.logo{
+    width: 100%;
+    height: 37%;
+}
+
+.rodape{
+    font-size: 1rem;
+    background-color:rgb(221, 224, 19);
+    text-align: center;
+}
